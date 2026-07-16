@@ -31,31 +31,45 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 </div>
 
 
-<p align="center"> <a href="https://www.github.com/malshandev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p><a href="https://www.github.com/malshandev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/malshandev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="center"> <a href="https://www.github.com/malshandev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/nadeesha malshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MalshanDev&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/MalshanDev?style=for-the-badge"/>
+
+</p>
 
 <table>
   <tr>
     <td>
-      <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/malshandev">
-  <img src="https://github-readme-stats.vercel.app/api?username=malshandev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malshandev's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/malshandev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malshandev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+  ![](https://github-readme-stats.shion.dev/api?username=MalshanDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
     </td>
     <td>
-      <b>Contribution Activity</b>
+   ![](https://streak-stats.demolab.com/?user=MalshanDev&theme=merko&hide_border=false)   
+     
+  </td>
+ 
+  </tr>
+</table>
 
-  <div align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MalshanDev&theme=github-compact&hide_border=true&bg_color=0d1117)]
-    (https://github.com/MalshanDev)
-  </div>
+### Contribution Activity
+
+<table>
+  <tr>
+    <td>
+<a href="https://github.com/MalshanDev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalshanDev&theme=github-compact&hide_border=true&bg_color=0d1117" />
+</a>
       
   </td>
+
+  <td>
+    
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</td>
   </tr>
 </table>
 
