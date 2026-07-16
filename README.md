@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/07/d1/75/07d175fb8bccc69989b71eb3d988e8ee.gif"  />
 </div>
 
 ###
