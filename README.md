@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&fontSize=50&fontColor=fff&animation=fadeIn"
-       width="95%" />
-</p>
+
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <div align="center">
 
