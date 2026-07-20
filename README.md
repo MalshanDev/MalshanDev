@@ -8,7 +8,7 @@
 
 # Hi 👋 I'm Nadeesha Malshan
 ### Computer Science Undergraduate | Aspiring AI Software Engineer | Full-Stack Developer
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications;Graphic+Designer)](https://git.io/typing-svg)
 
 
 </div>
