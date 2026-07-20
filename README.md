@@ -49,7 +49,7 @@ Currently, I'm strengthening my software engineering fundamentals while learning
   ![](https://github-readme-stats.shion.dev/api?username=MalshanDev&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
     </td>
     <td>
-   ![](https://streak-stats.demolab.com/?user=MalshanDev&theme=merko&hide_border=false)   
+     ![](https://streak-stats.demolab.com/?user=MalshanDev&theme=merko&hide_border=false)   
      
   </td>
  
